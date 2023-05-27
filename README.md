@@ -23,4 +23,4 @@
     * npm start
     * This would start the backend
 
-### Developed by :green_heart: and :coffee: by Rahul Malik
+### Developed by Shubhjot Singh 
