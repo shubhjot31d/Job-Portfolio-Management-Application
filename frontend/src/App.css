@@ -1,0 +1,156 @@
+/* Global Styles */
+:root {
+    --primary-color: #17a2b8;
+    --dark-color: #343a40;
+    --light-color: #f4f4f4;
+    --danger-color: #dc3545;
+    --success-color: #28a745;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    background-color: #fff;
+    color: #333;
+  }
+
+  select {
+    font-family: 'FontAwesome', 'Second Font name'
+  }
+  
+  a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+      margin-right: 0.5rem;
+  }
+  img {
+    width: 100%;
+  }
+
+  .heading {
+    font-family: 'Bungee', cursive;
+  }
+
+  .title {
+    font-family: 'Knewave', cursive;
+  }
+
+  .field {
+    font-family: 'Black Ops One', cursive;
+  }
+
+  .medium {
+    font-size: 1vw;
+  }
+
+
+/*navbar*/
+.navbar-header {
+    margin-left: 1vw;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 2vw;
+  color: snow;
+}
+.navbar-links {
+  font-size: 1vw;
+}
+/*Landing Page*/
+.landing {
+  background-image: url('./img/286305.jpg');
+  height: 100vh;
+}
+.landing-heading {
+    text-align: center;
+    font-size: 3vw;
+    font-weight: 700;
+    font-family: monospace;
+    color: snow;
+}  
+
+.landing-text {
+  text-align: center;
+  color : #fcba03;
+  font-size: 1vw;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-top: 2vw;
+}
+
+.landing-buttons {
+  margin-top: 3vw;
+  margin-left: 45vw;
+}
+
+.landing-btn {
+  width: 5vw;
+  height: 2vw;
+  font-size: 0.8vw;
+  text-align: center;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0.3vw;
+}
+
+/*Forms*/
+
+/* Forms */
+.form .form-group {
+  margin: 1.2rem 0;
+}
+
+.form .form-text {
+  display: block;
+  margin-top: 0.3rem;
+  color: #888;
+}
+
+.form input[type='text'],
+.form input[type='email'],
+.form input[type='password'],
+.form input[type='date'],
+.form select,
+.form textarea {
+  display: block;
+  width: 100%;
+  padding: 0.4rem;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+}
+
+.form input[type='submit'],
+button {
+  font: inherit;
+}
+
+/* login */
+
+.login {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.skill {
+  margin-left: 45%;
+}
+
+.education {
+  margin-left: 45%;
+}
