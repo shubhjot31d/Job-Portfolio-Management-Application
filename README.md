@@ -45,4 +45,4 @@ This project exemplifies my proficiency in frontend development with React.js, b
     * npm start
     * This would start the backend
 
-### Developed by Shubhjot Singh 
+### Developed by Shubhjot Singh image.png
