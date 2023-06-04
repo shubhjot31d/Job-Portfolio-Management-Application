@@ -1,4 +1,4 @@
-# Apply Wise
+# Apply Wise 🤔
 
 ## Job Application Portal for Applicant and Recruiter with Job match analysis
 
